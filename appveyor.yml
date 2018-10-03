@@ -13,7 +13,7 @@ install:
 
   # Post-install test scrtips.
   test_script:
-    #Output useful info for debugging.
+    # Output useful info for debugging.
     - node --version
     - npm --version
     # run tests
